@@ -1,5 +1,5 @@
 %% Authors: Prof. B. Boashash, Project leader
-%           Dr. Samir Ouelha and Dr. hichem Barki Post-Docs of Prof. Boualem Boashash.
+%           Dr. Samir Ouelha and Dr. Hichem Barki Post-Docs of Prof. Boualem Boashash.
 
 % The following reference should be cited whenever this script is used:
 % B. Boashash, H. Barki, S. Ouelha, Performance evaluation of
