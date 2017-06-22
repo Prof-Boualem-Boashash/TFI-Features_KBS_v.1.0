@@ -1,6 +1,6 @@
 function m = LOO(length_features_spec, signal_features_spec, signal_class_spec, index)
 %% Authors: Prof. B. Boashash, Project leader
-%           Dr. Samir Ouelha, PostDoc of Prof. Boualem Boashash
+%           Dr. Samir Ouelha and Dr. Hichem Barki , PostDocs of Prof. Boualem Boashash
 
 
 % The following reference should be cited whenever this script is used:
